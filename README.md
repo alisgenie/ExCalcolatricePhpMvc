@@ -14,3 +14,6 @@ The three cointainers are:
 - Controller: the code whose work is to handle the logic and to link the render to the model
 Hit the link to know more:
 <https://developer.mozilla.org/en-US/docs/Glossary/MVC>
+
+The live working example (in italian) of this simple exercise is available at: 
+<https://alisgenie.altervista.org/projects/calc/?page=calcolatrice>

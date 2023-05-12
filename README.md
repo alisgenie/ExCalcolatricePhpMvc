@@ -1,7 +1,7 @@
 # ExCalcolatricePhpMvc
 
-This is an exercise to implement a MVC(model View Control) code organization 
-structure in php.
+This is an exercise for didactic purposes:
+implement a MVC(model View Control) code organization structure in php.
 
 What is Model View Control?
 
